@@ -3,10 +3,10 @@ package commands
 import (
 	"fmt"
 	"net/http"
-	"sir/cli/config"
-	"sir/cli/utils"
-	"sir/lib/httpclient"
-	"sir/models"
+	"github.com/soopsio/sir/cli/config"
+	"github.com/soopsio/sir/cli/utils"
+	"github.com/soopsio/sir/lib/httpclient"
+	"github.com/soopsio/sir/models"
 
 	cli "gopkg.in/urfave/cli.v1"
 )

@@ -2,7 +2,7 @@ package task
 
 import (
 	"github.com/stretchr/testify/assert"
-	"sir/models"
+	"github.com/soopsio/sir/models"
 	"testing"
 	"time"
 )

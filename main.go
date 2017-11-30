@@ -2,8 +2,8 @@ package main
 
 import (
 	"os"
-	"sir/lib/config"
-	_ "sir/routers"
+	"github.com/soopsio/sir/lib/config"
+	_ "github.com/soopsio/sir/routers"
 
 	"github.com/astaxie/beego"
 )

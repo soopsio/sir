@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"log"
 	"net/http"
-	"sir/models"
+	"github.com/soopsio/sir/models"
 	"strconv"
 
 	"github.com/prometheus/client_golang/prometheus"

@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"os"
 	"runtime"
-	"sir/lib/errors"
-	"sir/models"
+	"github.com/soopsio/sir/lib/errors"
+	"github.com/soopsio/sir/models"
 	"time"
 
 	"log"

@@ -1,7 +1,7 @@
 package psutil
 
 import (
-	"sir/models"
+	"github.com/soopsio/sir/models"
 
 	"log"
 

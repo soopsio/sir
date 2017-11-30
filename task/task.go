@@ -2,7 +2,7 @@ package task
 
 import (
 	"fmt"
-	"sir/models"
+	"github.com/soopsio/sir/models"
 
 	"os"
 	"os/user"

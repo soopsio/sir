@@ -2,7 +2,7 @@ package utils
 
 import (
 	"fmt"
-	"sir/models"
+	"github.com/soopsio/sir/models"
 	"sort"
 	"strconv"
 	"time"

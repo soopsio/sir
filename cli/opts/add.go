@@ -1,7 +1,7 @@
 package opts
 
 import (
-	"sir/models"
+	"github.com/soopsio/sir/models"
 	"strings"
 
 	cli "gopkg.in/urfave/cli.v1"

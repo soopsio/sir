@@ -2,10 +2,10 @@ package controllers
 
 import (
 	"encoding/json"
-	"sir/lib/config"
-	"sir/models"
+	"github.com/soopsio/sir/lib/config"
+	"github.com/soopsio/sir/models"
 
-	"sir/task"
+	"github.com/soopsio/sir/task"
 
 	"github.com/astaxie/beego"
 )

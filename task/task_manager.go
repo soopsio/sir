@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 	"path"
-	"sir/models"
+	"github.com/soopsio/sir/models"
 	"sync"
 )
 

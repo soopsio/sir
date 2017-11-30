@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"sir/lib/config"
-	"sir/models"
+	"github.com/soopsio/sir/lib/config"
+	"github.com/soopsio/sir/models"
 
 	"github.com/astaxie/beego"
 )

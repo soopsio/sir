@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"sir/cli/commands"
+	"github.com/soopsio/sir/cli/commands"
 
 	"gopkg.in/urfave/cli.v1"
 )
